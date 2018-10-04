@@ -1,4 +1,4 @@
-/* Amin Yakubu (ay2416), Eric D. Morris (edm2152)*/
+/* Amin Yakubu & Eric D. Morris*/
 
 /*We want to assess the relationship between alcohol consumption and high blood pressure. We will also assess how 
 age, race, smoking and gender affects the relationship between our exposure and outcome*/
